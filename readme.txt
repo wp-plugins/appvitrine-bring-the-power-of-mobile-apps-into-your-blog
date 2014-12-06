@@ -6,10 +6,29 @@ Stable tag: 1.0
 License: GPLv2 
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-AppVitrine is an app-recommendation plugin which empower your blog by automatically placing the best related apps to your content into your blog post.
-
 == Description ==
-AppVitrine plugin can be easily embedded into your blog and places the best related apps to your content into your blog posts. By using AppVitrine plugin you serve your readers with the best apps related to their interest which is the content of your blog. Our plugin do all the heavy work for you and find the great apps among more than two million apps in the major app stores such as the Apple's App Store and Google's Android Market.
+AppVitrine is an app-recommendation plugin which empowers your blog by automatically placing the best related apps to your content into your blog post. 
+In spite of the fact that there is a lack of robust app discovery and app search, more than 102 billion apps were downloaded in 2013, generating $26 billion revenue. Although users love to download apps of their interest, lack of high-quality app search and discovery services is limiting this ever-increasing demand. Why don't you take advantage of this huge opportunity and help your readers find great apps related to the content of your blog post and generate incremental revenue for your blog.
+By using AppVitrine plugin you could easily serve your readers with the best apps related to their interest within the context of your posts. Our plugin do all the heavy work for you and find the great apps among more than two million apps in all major app markets such as Apple's App Store and Android's Play Market.  
+Features:
+Very easy integration to the blog post
+Automatically introduce the best apps related to your blog without any additional effort
+Automatically update the search to find new related apps to your blog post
+Automatically detect your reader's device and suggest apps based on in-use device 
+Cover all major platforms including – Apple's App Store, Google's Android Market, Microsoft's Windows Store and         BlackBerry World
+Place once, benefit forever! – you do not need to configure the AppVitrine each time you edit your post
+AppVitrine platform can be placed anywhere in your blog post
+Choose a design which suits your blog
+
+Premium features:(Premium version will be released soon)
+AppVitrine monetizes your blog
+Manage the app list – you can customize the recommended app list by adding or removing apps to the suggested list
+Natively promote an app on your blog
+Enables you to place advertisements among the recommended apps 
+AppVitrine can easily integrate with any advertising you use in your blog 
+You can check the number of app views in AppVitrine plugin
+You can check the number of clicks on the AppVitrine plugin
+You can track the performance of AppVitrine slider
 
 == Installation ==
 Installing AppVitrine Plugin from your WordPress admin panel:
