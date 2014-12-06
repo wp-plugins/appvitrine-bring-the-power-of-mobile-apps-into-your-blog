@@ -1,11 +1,12 @@
 <?php
 /*
 Plugin Name: AppVitrine
-Author: Lookitap
-Author URI: http://lookitap.com/
-Version: 1.0
-License: GPLv2
+Plugin URI: http://lookitap.com/appvitrine.php
 Description: An app-recommendation plugin which enriches your blog by automatically placing the best related apps to your content into your blog post.
+Version: 1.0
+Author: Lookitap
+Author URI: http://lookitap.com
+License: GPLv2
 Usage: [appvitrine size="normal" keywords="keyword1,keyword2,keyword3"]
 */
 

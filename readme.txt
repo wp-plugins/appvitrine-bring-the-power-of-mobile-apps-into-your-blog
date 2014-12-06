@@ -1,7 +1,8 @@
-﻿=== AppVitrine - Bring the power of mobile apps into your blog ===
+=== AppVitrine - Bring the power of mobile apps into your blog ===
 Contributors: Lookitap
 Tags: app, mobile app, iphone, iphone app, ipad, ipad app, android, android app, windows, windows phone app, blackberry, blackberry app, related, content related, app recommendation, related app, ad, advertising, revenue, ads, advertisement, embed, embed apps
 Requires at least: 4.0
+Stable tag: 1.0
 License: GPLv2 
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -65,7 +66,7 @@ Yes. In the premium version you can generate revenue by AppVitrine.
 == Screenshots ==
 1. AppVitrine easily gets integerated into your blog post
 2. Sample of AppVitrine on desktop version - iphone apps tab selected
-3. Sample of AppVitrine on desktop version – Android apps tab selected
+3. Sample of AppVitrine on desktop version � Android apps tab selected
 4. Sample of AppVitrine on mobile version
 
 == Upgrade Notice ==
