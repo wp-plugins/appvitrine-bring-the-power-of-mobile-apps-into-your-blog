@@ -76,9 +76,13 @@ The premium version will be released soon
 You can easily use AppVitrine service by using the markdown [appvitrine] on your blog post. You do not have to set any parameter, however there are some parameters which you can use as needed.
 
 Sample usage:
+
 [appvitrine]
+
 [appvitrine size="normal"]
+
 [appvitrine size="normal" keywords="food,bar,restaurant"]
+
 [appvitrine size="normal" keywords_only="yes" keywords="food,bar,restaurant"]
 
 1. size: By using this parameter, you can set the look of the AppVitrine on mobile devices. Valid values are "normal","small","xsmall". Default value is "normal".
