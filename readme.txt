@@ -7,8 +7,8 @@ License: GPLv2
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 == Description ==
-AppVitrine is an app-recommendation plugin which empowers your blog by automatically placing the best related apps to your content into your blog post. 
-In spite of the fact that there is a lack of robust app discovery and app search, more than 102 billion apps were downloaded in 2013, generating $26 billion revenue. Although users love to download apps of their interest, lack of high-quality app search and discovery services is limiting this ever-increasing demand. Why don't you take advantage of this huge opportunity and help your readers find great apps related to the content of your blog post and generate incremental revenue for your blog.
+AppVitrine is an app-recommendation plugin which empowers your blog by automatically placing the best related apps to your content into your blog post. <br/>
+In spite of the fact that there is a lack of robust app discovery and app search, more than 102 billion apps were downloaded in 2013, generating $26 billion revenue. Although users love to download apps of their interest, lack of high-quality app search and discovery services is limiting this ever-increasing demand. Why don't you take advantage of this huge opportunity and help your readers find great apps related to the content of your blog post and generate incremental revenue for your blog. <br/>
 By using AppVitrine plugin you could easily serve your readers with the best apps related to their interest within the context of your posts. Our plugin do all the heavy work for you and find the great apps among more than two million apps in all major app markets such as Apple's App Store and Android's Play Market.  
 
 
