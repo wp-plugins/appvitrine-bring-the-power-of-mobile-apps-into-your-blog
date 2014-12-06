@@ -16,24 +16,26 @@ In spite of the fact that there is a lack of robust app discovery and app search
 By using AppVitrine plugin you could easily serve your readers with the best apps related to their interest within the context of your posts. Our plugin do all the heavy work for you and find the great apps among more than two million apps in all major app markets such as Apple's App Store and Android's Play Market.
 
 Features:
-Very easy integration to the blog post
-Automatically introduce the best apps related to your blog without any additional effort
-Automatically update the search to find new related apps to your blog post
-Automatically detect your reader's device and suggest apps based on in-use device 
-Cover all major platforms including – Apple's App Store, Google's Android Market, Microsoft's Windows Store and         BlackBerry World
-Place once, benefit forever! – you do not need to configure the AppVitrine each time you edit your post
-AppVitrine platform can be placed anywhere in your blog post
+
+*Very easy integration to the blog post
+*Automatically introduce the best apps related to your blog without any additional effort
+*Automatically update the search to find new related apps to your blog post
+*Automatically detect your reader's device and suggest apps based on in-use device 
+*Cover all major platforms including – Apple's App Store, Google's Android Market, Microsoft's Windows Store and         BlackBerry World
+*Place once, benefit forever! – you do not need to configure the AppVitrine each time you edit your post
+*AppVitrine platform can be placed anywhere in your blog post
 Choose a design which suits your blog
 
 Premium features:(Premium version will be released soon)
-AppVitrine monetizes your blog
-Manage the app list – you can customize the recommended app list by adding or removing apps to the suggested list
-Natively promote an app on your blog
-Enables you to place advertisements among the recommended apps 
-AppVitrine can easily integrate with any advertising you use in your blog 
-You can check the number of app views in AppVitrine plugin
-You can check the number of clicks on the AppVitrine plugin
-You can track the performance of AppVitrine slider
+
+*AppVitrine monetizes your blog
+*Manage the app list – you can customize the recommended app list by adding or removing apps to the suggested list
+*Natively promote an app on your blog
+*Enables you to place advertisements among the recommended apps 
+*AppVitrine can easily integrate with any advertising you use in your blog 
+*You can check the number of app views in AppVitrine plugin
+*You can check the number of clicks on the AppVitrine plugin
+*You can track the performance of AppVitrine slider
   
 == Installation ==
 Installing AppVitrine Plugin from your WordPress admin panel:
