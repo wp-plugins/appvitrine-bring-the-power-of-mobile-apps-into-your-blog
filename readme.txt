@@ -85,6 +85,8 @@ Sample usage:
 
 [appvitrine size="normal" keywords_only="yes" keywords="food,bar,restaurant"]
 
+Parameters:
+
 1. size: By using this parameter, you can set the look of the AppVitrine on mobile devices. Valid values are "normal","small","xsmall". Default value is "normal".
 Sample usage:[appvitrine size="normal"]
 
