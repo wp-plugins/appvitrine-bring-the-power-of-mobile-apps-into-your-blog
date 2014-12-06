@@ -21,15 +21,15 @@ By using AppVitrine plugin you could easily serve your readers with the best app
 * Automatically introduce the best apps related to your blog without any additional effort
 * Automatically update the search to find new related apps to your blog post
 * Automatically detect your reader's device and suggest apps based on in-use device 
-* Cover all major platforms including – Apple's App Store, Google's Android Market, Microsoft's Windows Store and BlackBerry World
-* Place once, benefit forever! – you do not need to configure the AppVitrine each time you edit your post
+* Cover all major platforms including-Apple's App Store, Google's Android Market, Microsoft's Windows Store and BlackBerry World
+* Place once, benefit forever!-you do not need to configure the AppVitrine each time you edit your post
 * AppVitrine platform can be placed anywhere in your blog post
 Choose a design which suits your blog
 
 <strong>Premium features:(Premium version will be released soon)</strong>
 
 * AppVitrine monetizes your blog
-* Manage the app list – you can customize the recommended app list by adding or removing apps to the suggested list
+* Manage the app list-you can customize the recommended app list by adding or removing apps to the suggested list
 * Natively promote an app on your blog
 * Enables you to place advertisements among the recommended apps 
 * AppVitrine can easily integrate with any advertising you use in your blog 
