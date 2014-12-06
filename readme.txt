@@ -17,7 +17,7 @@ By using AppVitrine plugin you could easily serve your readers with the best app
 
 Features:
 
-* Very easy integration to the blog post
+* Very easy integration to the blog post<br>
 * Automatically introduce the best apps related to your blog without any additional effort
 * Automatically update the search to find new related apps to your blog post
 * Automatically detect your reader's device and suggest apps based on in-use device 
