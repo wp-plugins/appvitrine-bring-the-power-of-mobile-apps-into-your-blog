@@ -1,6 +1,6 @@
 === AppVitrine - Bring the power of mobile apps into your blog ===
 Contributors: Lookitap
-Tags: app, mobile app, iphone, iphone app, ipad, ipad app, android, android app, windows, windows phone app, blackberry, blackberry app, related, content related, app recommendation, related app, ad, advertising, revenue, ads, advertisement, embed, embed apps
+Tags: app, mobile app, iphone, iphone app, ipad, ipad app, android, android app, windows, windows phone app, blackberry, blackberry app, related, content related, app recommendation, related app, ad, advertising, revenue, ads, advertisement, embed, embed apps, shortcode
 Requires at least: 4.0
 Stable tag: 1.0
 License: GPLv2 
