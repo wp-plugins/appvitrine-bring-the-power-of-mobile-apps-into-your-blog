@@ -2,7 +2,7 @@
 /*
 Plugin Name: AppVitrine
 Plugin URI: http://lookitap.com/appvitrine.php
-Description: An app-recommendation plugin which enriches your blog by automatically placing the best related apps to your content into your blog post.
+Description: An app-recommendation plugin which enriches your blog by automatically placing the best related apps to your content into your blog post
 Version: 1.1
 Author: Lookitap
 Author URI: http://lookitap.com
