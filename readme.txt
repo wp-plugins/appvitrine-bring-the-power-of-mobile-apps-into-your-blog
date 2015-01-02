@@ -105,8 +105,7 @@ You need to join Apple Affiliate Program. You can apply for Affiliate Program on
 == Changelog ==
 = 1.1 =
 * Support the Apple App Store affiliate program.
-* Add new method to show the list of related apps.
- 
+* Add new method to show the list of related apps. 
 = 1.0 =
 First version of AppVitrine plugin
  
@@ -131,9 +130,9 @@ Sample usage:
 
 [appvitrine size="normal" keywords_only="yes" keywords="food,bar,restaurant"]
 
-[appVitrine type=“link" keywords="food,bar,restaurant"]
+[appVitrine type="link" keywords="food,bar,restaurant"]
 
-[appVitrine type=“link” at="456" keywords="food,bar,restaurant"]
+[appVitrine type="link" at="456" keywords="food,bar,restaurant"]
 
 Parameters:
 
@@ -150,5 +149,7 @@ Sample usage: [appvitrine keywords_only="yes" keywords="food,bar,restaurant"]
 Sample usage:[appvitrine type="button"]
 
 5. at: This parameter can be used to set your Apple Affiliate ID. You need to have an Affiliate ID from Apple to be able to earn commission by using this feature.
-Sample usage:[appvitrine at=“456”]
+Sample usage:[appvitrine at="456"]
+
+
 
