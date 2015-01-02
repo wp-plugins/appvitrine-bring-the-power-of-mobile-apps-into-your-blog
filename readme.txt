@@ -105,7 +105,8 @@ You need to join Apple Affiliate Program. You can apply for Affiliate Program on
 == Changelog ==
 = 1.1 =
 * Support the Apple App Store affiliate program.
-* Add new method to show the list of related apps.Ê
+* Add new method to show the list of related apps.
+
 = 1.0 =
 First version of AppVitrine plugin
  
