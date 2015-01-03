@@ -6,8 +6,6 @@ Stable tag: 1.1
 License: GPLv2 
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-Easily and automatically embed apps related to your content or subjects you like into your blog posts. Earn affiliate revenue from Apple.
-
 == Description ==
 Easily and automatically embed apps related to your content or subjects you like into your blog posts. Earn affiliate revenue from Apple. 
 
