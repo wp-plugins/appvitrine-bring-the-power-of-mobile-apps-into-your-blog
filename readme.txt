@@ -107,13 +107,13 @@ You need to join Apple Affiliate Program. You can apply for Affiliate Program on
 
 == Changelog ==
 = 2.0 = 
-Enable automatically embedding apps in all articles.
-Add AppVitrine setting to the left hand panel.
-Add new format to show the list of related apps.
+* Enable automatically embedding apps in all articles.
+* Add AppVitrine setting to the left hand panel.
+* Add new format to show the list of related apps.
 
 = 1.1 =
-Support the Apple App Store affiliate program.
-Add a new method to show the list of related apps.
+* Support the Apple App Store affiliate program.
+* Add a new method to show the list of related apps.
 
 = 1.0 =
 First version of AppVitrine plugin
