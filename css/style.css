@@ -1,0 +1,53 @@
+.appvitrin fieldset {
+	margin-top: 5px;
+	padding-left: 20px;
+}
+.appvitrin fieldset legend {
+	font-weight: bold;
+	font-size: 15px;
+	padding-left: 10px;
+	padding-right: 5px;
+}
+
+.appvitrin .appvitrine_sc_defaultFormat, .appvitrin .appvitrine_df_format {
+	width: 250px;
+	border-radius: 10px;
+	box-shadow: 0px 0px 20px #888888;
+	cursor: pointer;
+	border: 5px solid transparent;
+}
+.appvitrin .appvitrine_sc_defaultFormat.active, .appvitrin .appvitrine_df_format.active {
+	border: 5px solid green;
+}
+
+.appvitrin .sction_border {
+	border-radius: 25px;
+	border: 2px solid #CCCCCC;
+	padding: 10px;
+	width: 1000px;
+	background: #FCFCFC;
+}
+
+.appvitrin .alert-success {
+	color: #3c763d;
+	background-color: #dff0d8;
+	border-color: #d6e9c6;
+	padding: 15px;
+	margin-bottom: 20px;
+	border: 1px solid transparent;
+	border-radius: 4px;
+}
+
+.small-btn{
+	width:16px;
+	height:16px;
+}
+
+.btn-expand,
+.btn-colapse{
+	
+}
+.btn-toggle .text{
+	color:#444;
+	cursor: pointer;
+}

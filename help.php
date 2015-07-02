@@ -1,0 +1,2 @@
+<?php?>
+<iframe width="100%" height="6000px" frameborder="0" scrolling="no" src="http://cdn.appvitrine.com/help/help_v1.html?ver=<?php $pd=get_plugin_data(__FILE__); echo $pd['Version']; ?>"> </iframe> <?php  echo __FILE__;?>
