@@ -1,8 +1,8 @@
 === AppVitrine - Bring the power of mobile apps into your blog ===
 Contributors: Lookitap
-Tags: app, mobile app, iphone, iphone app, ipad, ipad app, android, android app, windows, windows phone app, blackberry, blackberry app, related, content related, app recommendation, related app, ad, advertising, revenue, ads, advertisement, embed, embed apps, shortcode
+Tags: app, mobile app, iphone, iphone app, ipad, ipad app, android, android app, windows, windows phone app, blackberry, blackberry app, related, content related, app recommendation, related app, ad, advertising, revenue, ads, advertisement, embed, embed apps, shortcode, blog monetize, blog monetization, make money, apple affiliate
 Requires at least: 4.0
-Stable tag: 1.1
+Stable tag: 2.0
 License: GPLv2 
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -46,7 +46,9 @@ Installing AppVitrine Plugin from your WordPress admin panel:
 2. Type AppVitrine within the search box and click "Search Plugins".
 3. Choose the "AppVitrine" Plugin and click "Install Now".
 4. Click "Activate Plugin".
-5. Place the shortcode [appvitrine] inside any posts and/or pages where you want the related apps to be be shown.
+5. Click “AppVitrine” on the left hand panel.
+6. Make the changes on AppVitrine setting page if you needed and click “Apply”.
+If you want to use AppVitrine manually on each post, place the shortcode [appvitrine] inside any posts and/or pages where you want the related apps to be be shown.
 
 Download and Install the AppVitrine Plugin from Wordpress plugin directory:
 
@@ -54,8 +56,9 @@ Download and Install the AppVitrine Plugin from Wordpress plugin directory:
 2. Go to your WordPress admin panel, open the Plugins menu on the left main menu and click "Add New".
 3. Click "Upload" on the top page menu.
 4. Choose the "AppVitrine" plugin and click "Install Now".
-5. Click "Activate Plugin".
-6. Place the shortcode [appvitrine] inside any posts and/or pages where you want the related apps to be shown.
+5. Click “AppVitrine” on the left hand panel.
+6. Make the changes on AppVitrine setting page if you needed and click “Apply”.
+If you want to use AppVitrine manually on each post, place the shortcode [appvitrine] inside any posts and/or pages where you want the related apps to be be shown.
 
 == Frequently Asked Questions ==
 Do I need to create an account to use AppVitrine plugin?
@@ -71,7 +74,7 @@ Can I use AppVitrine plugin for the mobile version of my website or do I need to
 You do not need to have a mobile app for your blog to be able to use the service of AppVitrine plugin. You can use it anywhere on your blog page or website.
 
 What does AppVitrine show in my blog when readers visit my blog from the desktop?
-On the desktop version of your blog post, AppVitrin shows the related apps to your blog post with the option for device selection. We show all the major app stores on the desktop so your readers could choose their interested device.  
+On the desktop version of your blog post, AppVitrine shows the related apps to your blog post with the option for device selection. We show all the major app stores on the desktop so your readers could choose their interested device.  
 
 Can I place the apps anywhere in my blog?
 Yes.
@@ -97,12 +100,17 @@ How can I get an Affiliate ID?
 You need to join Apple Affiliate Program. You can apply for Affiliate Program on http://www.apple.com/au/itunes/affiliates/
 
 == Screenshots ==
-1. AppVitrine easily gets integerated into your blog post
+1. AppVitrine setting page
 2. Sample of AppVitrine on desktop version - iphone apps tab selected
 3. Sample of AppVitrine on desktop version - Android apps tab selected
 4. Sample of AppVitrine on mobile version
 
 == Changelog ==
+= 2.0 =
+* Enable automatically embedding apps in all articles.
+* Add AppVitrine setting to the left hand panel.
+* Add new format to show the list of related apps.
+
 = 1.1 =
 * Support the Apple App Store affiliate program.
 * Add a new method to show the list of related apps.
@@ -111,25 +119,31 @@ You need to join Apple Affiliate Program. You can apply for Affiliate Program on
 First version of AppVitrine plugin
  
 == Upgrade Notice ==
+=2.0=
+* In this version you can set up AppVitrine to automatically show the related apps at the end of all posts instead of manually using shortcode in each post. You can do this easily by using the AppVitrine setting on the left hand panel.
+* You have more format options to show apps in the slider.
+
 = 1.1 =
 *In this version you can add a clickable link or button, which shows the app list when users click on it, into your blog post instead of inserting the app slider. 
 *You can set your Apple Affiliate ID in AppVitrine shortcode to earn commission from Apple App Store. 
 
 = 1.0 =
-First version of Appvitrine plugin 
+First version of AppVitrine plugin 
 
 == A brief Markdown Example ==
-You can easily use AppVitrine service by using the markdown [appvitrine] on your blog post. You do not have to set any parameter, however there are some parameters which you can use as needed.
+You can easily add AppVitrine app slider to end of all of your post by choosing AppVitrine on the left hand panel and clicking the Apply button.
+
+You can also use AppVitrine service for selected posts by using the markdown [appvitrine] on your blog post. You do not have to set any parameter, however there are some parameters which you can use as needed.
 
 Sample usage:
 
 [appvitrine]
 
-[appvitrine size="normal"]
+[appvitrine format="icon-f1"]
 
-[appvitrine size="normal" keywords="food,bar,restaurant"]
+[appvitrine format="slider-f1" keywords="food,bar,restaurant"]
 
-[appvitrine size="normal" keywords_only="yes" keywords="food,bar,restaurant"]
+[appvitrine format="slider-f2" keywords_only="yes" keywords="food,bar,restaurant"]
 
 [appVitrine type="link" keywords="food,bar,restaurant"]
 
@@ -137,17 +151,17 @@ Sample usage:
 
 Parameters:
 
-1. size: By using this parameter, you can set the look of AppVitrine on mobile devices. Valid values are "normal","small","xsmall". Default value is "normal".
-Sample usage:[appvitrine size="normal"]
+1. format: By using this parameter, you can set the look of AppVitrine on mobile devices. Valid values are "icon-f1","slider-f1","slider-f2", and "slider-f3. Default value is "icon-f1". Below you can see the preview of each format.
+Sample usage: [appvitrine format="icon-f1"]
 
-2. keywords: You can add additional keywords to modify the recommended apps and/or include apps related to the specific keywords. Valid value is a list of keywords separated by comma. 
-Sample usage:[appvitrine keywords="food,bar,restaurant"]
+2. keywords: You can add additional keywords to modify the recommended apps and/or include apps related to the specific keywords. Valid value is a list of keywords separated by comma.
+Sample usage: [appvitrine keywords="food,bar,restaurant"]
 
-3. keyword_only: By default, AppVitrine recommends apps related to the content of the blog which apps are embedded into. The valid values is "yes" or "no". The default value is "no". By setting this parameter to "yes", you can ignore this preset and make the apps to be relevant only to the keywords you specify.
+3. keyword_only: By default, AppVitrine recommends apps related to the content of the blog post which apps are embedded into. The valid values are "yes" or "no". The default value is "no". By setting this parameter to "yes", you can ignore this preset and make the apps to be relevant to only the keywords you specify.
 Sample usage: [appvitrine keywords_only="yes" keywords="food,bar,restaurant"]
 
-4. type: By using this parameter, you can make AppVitrine to be a link or button on your blog post. Valid values are "link","button".
-Sample usage:[appvitrine type="button"]
+4. type: By using this parameter, you can make AppVitrine to be a link or button on your blog post. By default the value of this parameter is "slider". When the indicated value for this parameter is "slider" the content of the slider will be shown from the moment the blog post is loaded. Valid values for this parameter are "slider", "link","button".
+Sample usage: [appvitrine type="button"]
 
 5. at: This parameter can be used to set your Apple Affiliate ID. You need to have an Affiliate ID from Apple to be able to earn commission by using this feature.
 Sample usage:[appvitrine at="456"]
