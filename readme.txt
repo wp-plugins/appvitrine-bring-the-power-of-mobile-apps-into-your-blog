@@ -97,7 +97,7 @@ How can I get an Affiliate ID?
 You need to join Apple Affiliate Program. You can apply for Affiliate Program on http://www.apple.com/au/itunes/affiliates/
 
 == Screenshots ==
-1. AppVitrine easily gets integerated into your blog post
+1. AppVitrine easily gets integerated into your blog post 
 2. Sample of AppVitrine on desktop version - iphone apps tab selected
 3. Sample of AppVitrine on desktop version - Android apps tab selected
 4. Sample of AppVitrine on mobile version
