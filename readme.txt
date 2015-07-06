@@ -61,7 +61,7 @@ Download and Install the AppVitrine Plugin from Wordpress plugin directory:
 If you want to use AppVitrine manually on each post, place the shortcode [appvitrine] inside any posts and/or pages where you want the related apps to be be shown.
 
 == Frequently Asked Questions ==
-<strong> Do I need to create an account to use AppVitrine plugin? </strong>
+<strong> Do I need to create an account to use AppVitrine plugin? </strong></br>
 No.
 
 Does AppVitrine plugin work with any mobile platform?
