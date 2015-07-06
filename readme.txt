@@ -64,39 +64,39 @@ If you want to use AppVitrine manually on each post, place the shortcode [appvit
 <strong> Do I need to create an account to use AppVitrine plugin? </strong><br>
 No.
 
-Does AppVitrine plugin work with any mobile platform?
+<strong>Does AppVitrine plugin work with any mobile platform?</strong><br>
 Yes. You do not need to do any extra work. AppVitrine plugin will automatically figure out what mobile platform your readers are using and will suggest the best apps for their devices.
 
-Does AppVitrine Plugin show the best apps for the mobile device which my reader uses?
+<strong>Does AppVitrine Plugin show the best apps for the mobile device which my reader uses?</strong><br>
 Yes. We show each reader related apps for the specific device that they use.
 
-Can I use AppVitrine plugin for the mobile version of my website or do I need to have a mobile app?
+<strong>Can I use AppVitrine plugin for the mobile version of my website or do I need to have a mobile app?</strong><br>
 You do not need to have a mobile app for your blog to be able to use the service of AppVitrine plugin. You can use it anywhere on your blog page or website.
 
-What does AppVitrine show in my blog when readers visit my blog from the desktop?
+<strong>What does AppVitrine show in my blog when readers visit my blog from the desktop?</strong><br>
 On the desktop version of your blog post, AppVitrine shows the related apps to your blog post with the option for device selection. We show all the major app stores on the desktop so your readers could choose their interested device.  
 
-Can I place the apps anywhere in my blog?
+<strong>Can I place the apps anywhere in my blog?</strong><br>
 Yes.
 
-What are the different versions of AppVitrine plugin?
+<strong>What are the different versions of AppVitrine plugin?</strong><br>
 There are two different versions 
 1. The current version which you can use to introduce the best related apps to your readers. 
 2. The premium version which you can also generate revenue from your blog.
 
-Can I see if anyone browses these suggested apps?
+<strong>Can I see if anyone browses these suggested apps?</strong><br>
 Yes. If you register with us we will provide you with the statistics which shows the number of views.
 
-Can I track how many users are interested in these related apps?
+<strong>Can I track how many users are interested in these related apps?</strong><br>
 Yes. If you register with us we will provide you the rate of clicks by your readers.
 
-Do I get paid when my readers are interested to an app?
+<strong>Do I get paid when my readers are interested to an app?</strong><br>
 Yes. In the premium version you can generate revenue by AppVitrine.
 
-Can I earn commission if I do not have an Affiliate ID?
+<strong>Can I earn commission if I do not have an Affiliate ID?</strong><br>
 No. You need to have an Affiliate ID to earn commission from Apple Ap Store.
 
-How can I get an Affiliate ID?
+<strong>How can I get an Affiliate ID?</strong><br>
 You need to join Apple Affiliate Program. You can apply for Affiliate Program on http://www.apple.com/au/itunes/affiliates/
 
 == Screenshots ==
