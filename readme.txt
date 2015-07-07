@@ -130,41 +130,7 @@ First version of AppVitrine plugin
 = 1.0 =
 First version of AppVitrine plugin 
 
-== A brief Markdown Example ==
-You can easily add AppVitrine app slider to end of all of your post by choosing AppVitrine on the left hand panel and clicking the Apply button.
-
-You can also use AppVitrine service for selected posts by using the markdown [appvitrine] on your blog post. You do not have to set any parameter, however there are some parameters which you can use as needed.
-
-Sample usage:
-
-[appvitrine]
-
-[appvitrine format="icon-f1"]
-
-[appvitrine format="slider-f1" keywords="food,bar,restaurant"]
-
-[appvitrine format="slider-f2" keywords_only="yes" keywords="food,bar,restaurant"]
-
-[appVitrine type="link" keywords="food,bar,restaurant"]
-
-[appVitrine type="link" at="456" keywords="food,bar,restaurant"]
-
-Parameters:
-
-1. format: By using this parameter, you can set the look of AppVitrine on mobile devices. Valid values are "icon-f1","slider-f1","slider-f2", and "slider-f3. Default value is "icon-f1". Below you can see the preview of each format.
-Sample usage: [appvitrine format="icon-f1"]
-
-2. keywords: You can add additional keywords to modify the recommended apps and/or include apps related to the specific keywords. Valid value is a list of keywords separated by comma.
-Sample usage: [appvitrine keywords="food,bar,restaurant"]
-
-3. keyword_only: By default, AppVitrine recommends apps related to the content of the blog post which apps are embedded into. The valid values are "yes" or "no". The default value is "no". By setting this parameter to "yes", you can ignore this preset and make the apps to be relevant to only the keywords you specify.
-Sample usage: [appvitrine keywords_only="yes" keywords="food,bar,restaurant"]
-
-4. type: By using this parameter, you can make AppVitrine to be a link or button on your blog post. By default the value of this parameter is "slider". When the indicated value for this parameter is "slider" the content of the slider will be shown from the moment the blog post is loaded. Valid values for this parameter are "slider", "link","button".
-Sample usage: [appvitrine type="button"]
-
-5. at: This parameter can be used to set your Apple Affiliate ID. You need to have an Affiliate ID from Apple to be able to earn commission by using this feature.
-Sample usage:[appvitrine at="456"]
+==  ==
 
 
 
