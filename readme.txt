@@ -130,7 +130,7 @@ First version of AppVitrine plugin
 = 1.0 =
 First version of AppVitrine plugin 
 
-==  ==
+
 
 
 
