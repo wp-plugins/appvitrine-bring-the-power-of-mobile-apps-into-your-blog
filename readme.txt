@@ -1,7 +1,8 @@
-=== AppVitrine - Bring the power of mobile apps into your blog ===
+=== AppVitrine - Bring the power of mobile app discovery into your blog ===
 Contributors: Lookitap
-Tags: app, mobile app, iphone, iphone app, ipad, ipad app, android, android app, windows, windows phone app, blackberry, blackberry app, related, content related, app recommendation, related app, ad, advertising, revenue, ads, advertisement, embed, embed apps, shortcode, blog monetize, blog monetization, make money, apple affiliate
+Tags: app, mobile app, iphone, iphone app, ipad, ipad app, android, android app, windows, windows phone app, blackberry, blackberry app, related, content related, app recommendation, app discovery , related app, ad, advertising, revenue, ads, advertisement, embed, embed apps, shortcode, blog monetize, blog monetization, make money, apple affiliate
 Requires at least: 3.6
+Compatible up to: 4.2.2
 Stable tag: 2.0
 License: GPLv2 
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
@@ -95,12 +96,12 @@ No. In the current version, you need to have an Affiliate ID to earn commission 
 You need to join Apple Affiliate Program. You can apply for Affiliate Program on http://www.apple.com/au/itunes/affiliates/
 
 <strong>Can I place the apps anywhere in my blog?</strong><br>
-Yes. By default, AppVitrine will add the apps to the end of your blog posts. However, you can use <AppVitrine> shortcode to place the apps anywhere else. You can find more information on http://cdn.appvitrine.com/help/help_v2.html
+Yes. By default, AppVitrine will add the apps to the end of your blog posts. However, you can use [appvitrine] shortcode to place the apps anywhere else. You can find more information on http://cdn.appvitrine.com/help/help_v2.html
 
 == Screenshots ==
 1. AppVitrine setting page
 2. Sample of AppVitrine on mobile version - Format:slider-f1
-3. Sample of AppVitrine on mobile version - Format:icone-f1 
+3. Sample of AppVitrine on mobile version - Format:icon-f1 
 4. Sample of AppVitrine on desktop version - Android apps tab selected
  
 
