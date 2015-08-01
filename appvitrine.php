@@ -3,7 +3,7 @@
  Plugin Name: AppVitrine
  Plugin URI: http://lookitap.com/appvitrine.php
  Description: An app-recommendation plugin which enriches your blog by automatically placing the best related apps to your content into your blog post.
- Version: 2.0
+ Version: 2.1
  Author: Lookitap
  Author URI: http://lookitap.com
  License: GPLv2
@@ -123,10 +123,10 @@ function appvitrine_shortcode($atts, $content = null, $format = "show_ad") {
 
 	//Generate private and public key and register it on server
 	//-------------------------------------------------------------------------
-	if (get_option('appvitrine_app_initiated') != "true2") {
+	if (get_option('appvitrine_app_initiated') != "true") {
 		$publicationId = substr(md5(uniqid(get_site_url(), true)), 0, 32);
 		update_option('appvitrine_publication_id', $publicationId);
-		update_option('appvvitrine_private_key', substr(md5(uniqid(rand(), true)), 0, 32));
+		update_option('appvitrine_private_key', substr(md5(uniqid(rand(), true)), 0, 32));
 		update_option('appvitrine_app_initiated', 'true');
 	}
 
