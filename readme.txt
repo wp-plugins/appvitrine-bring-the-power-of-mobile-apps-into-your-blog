@@ -102,6 +102,7 @@ Yes. By default, AppVitrine will add the apps to the end of your blog posts. How
 == Screenshots ==
 1. AppVitrine setting page
 2. Sample of AppVitrine on mobile version - Format:slider-f1
+
 3. Sample of AppVitrine on mobile version - Format:icon-f1 
 4. Sample of AppVitrine on desktop version - Android apps tab selected
  
