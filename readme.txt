@@ -4,7 +4,7 @@ Tags: app, mobile app, iphone, iphone app, ipad, ipad app, android, android app,
 Requires at least: 3.6
 
 Compatible up to: 4.2.2
-Stable tag: 2.1
+Stable tag: 2.2
 License: GPLv2 
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -108,6 +108,11 @@ Yes. By default, AppVitrine will add the apps to the end of your blog posts. How
  
 
 == Changelog ==
+= 2.2 =
+* The number of slider shown in a page got limited to 3.
+* Add extra parameters to track permlink, title, plugin version and div number.
+* Minor issues fixed.
+
 = 2.1 = 
 * Fixed minor bug
 
@@ -115,8 +120,11 @@ Yes. By default, AppVitrine will add the apps to the end of your blog posts. How
 = 2.0 =
 
 * Enable automatically embedding apps in all articles.
+
 * Add AppVitrine setting to the left hand panel.
+
 * Add new format to show the list of related apps.
+
 * Enable registration to get updated about the new features.
 
 
@@ -129,6 +137,10 @@ Yes. By default, AppVitrine will add the apps to the end of your blog posts. How
 First version of AppVitrine plugin
  
 == Upgrade Notice ==
+= 2.2 =
+* In this version the number of slider shown in one page has been limited to 3.
+* Some minor issues got fixed.
+
 = 2.1 = 
 * Minor bug fixed.
 
@@ -138,12 +150,13 @@ First version of AppVitrine plugin
 * In this version you can set up AppVitrine to automatically show the related apps at the end of all posts instead of manually using shortcode in each post. You can do this easily by clicking apply in the AppVitrine setting on the left hand panel.
 
 * You have more format options to show apps in the slider.
+
 * You can register to get updated about the new features and promotions.
 
 
 = 1.1 =
-*In this version you can add a clickable link or button, which shows the app list when users click on it, into your blog post instead of inserting the app slider. 
-*You can set your Apple Affiliate ID in AppVitrine shortcode to earn commission from Apple App Store. 
+* In this version you can add a clickable link or button, which shows the app list when users click on it, into your blog post instead of inserting the app slider. 
+* You can set your Apple Affiliate ID in AppVitrine shortcode to earn commission from Apple App Store. 
 
 = 1.0 =
 First version of AppVitrine plugin 
