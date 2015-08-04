@@ -3,7 +3,7 @@
  Plugin Name: AppVitrine
  Plugin URI: http://lookitap.com/appvitrine.php
  Description: An app-recommendation plugin which enriches your blog by automatically placing the best related apps to your content into your blog post.
- Version: 2.1
+ Version: 2.2
  Author: Lookitap
  Author URI: http://lookitap.com
  License: GPLv2
@@ -190,11 +190,11 @@ function appvitrine_shortcode($atts, $content = null, $format = "show_ad") {
 
 	if ($atts["keywords"] != '')
 		;
-	$src .= '&kw=' . $atts["keywords"];
+	$src .= '&kw=' . urlencode($atts["keywords"]);
 
 	if ($atts["categories"] != '')
 		;
-	$src .= '&cat=' . $atts["categories"];
+	$src .= '&cat=' . urlencode($atts["categories"]);
 
 	if ($atts["format"] != '')
 		$src .= '&format=' . $atts["format"];
@@ -202,28 +202,38 @@ function appvitrine_shortcode($atts, $content = null, $format = "show_ad") {
 	if ($atts["at"] != '')
 		$src .= '&at=' . $atts["at"];
 
-	$src .= "&q=" . wp_get_shortlink();
+	$src .= "&q=" . urlencode(wp_get_shortlink());
+	$src .= "&perma=" . urlencode(get_permalink());
+	$src .= "&title=" . urlencode(get_the_title());	
+	$src .= '&pv=' . "AV2.2";  //plugin version. this must be changed when version is changed.
 	$src .= "&h=" . md5(get_the_content());
 
 	// Define a static counter to support multiple slider in one post, a postfix counter will be added to each element id.
-	static $i = 0;
+	static $appvitrine_slider_counter = 1;
+	
+	$src .= "&dn=" . $appvitrine_slider_counter;  //div number in page
 
 	wp_enqueue_script('jquery');
 
- 	$rndNumber=md5(mt_rand ());
-	$appVitrineJSURL = '://cdn.appvitrine.com/js/appvitrine_v1.min.js';
-	$html .= '<div id="appvitrine_div_' . $rndNumber . '" ></div>';
-	$html .= "<script>
-	 			if (typeof(appvitrine_executer) == 'undefined')
-	 			{
-					var jsUrl= (('https:' == document.location.protocol)? 'https': 'http') + '".$appVitrineJSURL."';
-	 				jQuery.getScript(jsUrl,function(){
-	 					appvitrine_executer('appvitrine_div_$rndNumber','$src',".json_encode($atts).");	
-	 				});
-	 			};
-			</script>";
+	$max_number_of_sliders_in_one_page  = 3;
 	
-	$i++;
+	if( $appvitrine_slider_counter <=  $max_number_of_sliders_in_one_page ){
+		$appVitrineJSURL = '://cdn.appvitrine.com/js/appvitrine_v1.min.js';
+		$html .= '<div id="appvitrine_div_' . $appvitrine_slider_counter . '" ></div>';
+		$html .= "<script>
+					if (typeof(appvitrine_executer) == 'undefined'){
+						var jsUrl= (('https:' == document.location.protocol)? 'https': 'http') + '".$appVitrineJSURL."';
+						jQuery.getScript(jsUrl,function(){
+							appvitrine_executer('appvitrine_div_$appvitrine_slider_counter','$src',".json_encode($atts).");	
+						});
+					}
+					else{
+						appvitrine_executer('appvitrine_div_$appvitrine_slider_counter','$src',".json_encode($atts).");
+					}
+				</script>";
+	}
+	
+	$appvitrine_slider_counter++;
 	return $html;
 }
 
