@@ -4,6 +4,7 @@
 if ($_POST['appvitrineAction']=='applySettings'){
 	
 	// general settings
+	update_option('appvitrine_publication_id', stripslashes($_POST['appvitrine_publication_id']));
 	update_option('appvitrine_gs_iTunes_affiliate_id', stripslashes($_POST['appvitrine_gs_iTunes_affiliate_id']));
 	//update_option('appvitrine_gs_useCategoriesByDefault', isset($_POST['appvitrine_gs_useCategoriesByDefault']));
 	update_option('appvitrine_gs_onlyMobile', $_POST['appvitrine_gs_onlyMobile']);
@@ -58,10 +59,24 @@ if ($_POST['appvitrineAction']=='applySettings'){
 					</tr>
 					<tr class="form-field">
 						<th scope="row" style="width:300px;">
+							<label for="appvitrine_publication_id">
+								Quantaad Publication ID
+								<span class="description">
+									(optional) <br>  Don't you have a Quantaad publication ID?<br> <a href="http://quantaad.com/helps/registration_and_creating_a_publication.html" target="_blank">Follow the instructions to get one here</a> 
+								</span>
+							</label>
+						</th>
+						<td>
+							<input name="appvitrine_publication_id" type="text" id="appvitrine_publication_id" value="<?php echo get_option('appvitrine_publication_id'); ?>"
+							aria-required="true" />
+						</td>
+					</tr>
+					<tr class="form-field">
+						<th scope="row" style="width:300px;">
 							<label for="appvitrine_gs_iTunes_affiliate_id">
 								iTunes affiliate ID
 								<span class="description">
-									(optional)
+									(optional)<br>  Don't you have an iTunes affiliate ID? <br> <a href="https://www.apple.com/itunes/affiliates/resources/" target="_blank"> Apply for one here</a>
 								</span>
 							</label>
 						</th>
@@ -109,7 +124,7 @@ if ($_POST['appvitrineAction']=='applySettings'){
 											data-format="icon-f1"
 											src="<?php echo WP_PLUGIN_URL . '/'. basename(__DIR__).'/img/icon-f1_w250.png' ?>" />
 									</td>
-									<td>
+									<td  style="display:none">
 										<img
 											class="appvitrine_df_format <?php echo (get_option("appvitrine_df_format")=="slider-f1" )?"active":"" ?>"
 											data-format="slider-f1" 	
@@ -123,6 +138,8 @@ if ($_POST['appvitrineAction']=='applySettings'){
 											data-format="slider-f2"
 											src="<?php echo WP_PLUGIN_URL . '/'. basename(__DIR__).'/img/slider-f2_w250.png' ?>" />
 									</td>
+								</tr>
+								<tr>	
 									<td>
 										<img
 											class="appvitrine_df_format <?php echo (get_option("appvitrine_df_format")=="slider-f3" )?"active":"" ?>"
@@ -133,7 +150,7 @@ if ($_POST['appvitrineAction']=='applySettings'){
 							</table>	
 						</td>	
 					</tr>
-					<tr>
+					<tr  style="display:none">
 						<th scope="row" style="width:300;text-align: center;">
 							<label for="appvitrine_df_type">
 									Type:
