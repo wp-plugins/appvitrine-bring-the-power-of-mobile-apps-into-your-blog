@@ -1,9 +1,9 @@
 <?php
 /*
- Plugin Name: AppVitrine
+ Plugin Name:AppVitrine
  Plugin URI: http://lookitap.com/appvitrine.php
- Description: An app-recommendation plugin which enriches your blog by automatically placing the best related apps to your content into your blog post.
- Version: 2.2
+ Description:Generate incremental revenue and increase your user engagement by placing related apps to your blog.
+ Version: 2.3
  Author: Lookitap
  Author URI: http://lookitap.com
  License: GPLv2
@@ -15,7 +15,7 @@
 if (get_option("appvitrine_plugin_initiated") != "true") {
 
 	//general settings
-	update_option('appvitrine_gs_onlyMobile', "");
+	update_option('appvitrine_gs_onlyMobile', "1");
 	update_option('appvitrine_gs_useCategoriesByDefault', "1"); //not used for now
 
 	//show in all pages settings
@@ -125,7 +125,8 @@ function appvitrine_shortcode($atts, $content = null, $format = "show_ad") {
 	//-------------------------------------------------------------------------
 	if (get_option('appvitrine_app_initiated') != "true") {
 		$publicationId = substr(md5(uniqid(get_site_url(), true)), 0, 32);
-		update_option('appvitrine_publication_id', $publicationId);
+		update_option('appvitrine_publication_id', "");
+		update_option('appvitrine_default_publication_id', $publicationId);
 		update_option('appvitrine_private_key', substr(md5(uniqid(rand(), true)), 0, 32));
 		update_option('appvitrine_app_initiated', 'true');
 	}
@@ -184,6 +185,7 @@ function appvitrine_shortcode($atts, $content = null, $format = "show_ad") {
 	$src .= "&tinyurl=" . urlencode($tinyurl);
 	$src .= "&siteurl=" . urlencode(get_site_url());
 	$src .= '&pid=' . get_option("appvitrine_publication_id");
+	$src .= '&dpid=' . get_option("appvitrine_default_publication_id");
 
 	$src .= '&om=' . $atts["mobile-only"];
 	$src .= '&ko=' . $atts["keywords_only"];
@@ -205,7 +207,7 @@ function appvitrine_shortcode($atts, $content = null, $format = "show_ad") {
 	$src .= "&q=" . urlencode(wp_get_shortlink());
 	$src .= "&perma=" . urlencode(get_permalink());
 	$src .= "&title=" . urlencode(get_the_title());	
-	$src .= '&pv=' . "AV2.2";  //plugin version. this must be changed when version is changed.
+	$src .= '&pv=' . "AV2.3";  //plugin version. this must be changed when version is changed.
 	$src .= "&h=" . md5(get_the_content());
 
 	// Define a static counter to support multiple slider in one post, a postfix counter will be added to each element id.
