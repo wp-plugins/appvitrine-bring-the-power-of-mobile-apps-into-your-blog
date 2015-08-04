@@ -1,45 +1,38 @@
-=== AppVitrine - Bring the power of mobile app discovery into your blog ===
+=== AppVitrine - Generate incremental revenue by bringing the power of mobile app discovery into your blog ===
 Contributors: Lookitap
 Tags: app, mobile app, iphone, iphone app, ipad, ipad app, android, android app, windows, windows phone app, blackberry, blackberry app, related, content related, app recommendation, app discovery , related app, ad, advertising, revenue, ads, advertisement, embed, embed apps, shortcode, blog monetize, blog monetization, make money, apple affiliate
 Requires at least: 3.6
 
 Compatible up to: 4.2.2
-Stable tag: 2.2
+Stable tag: 2.3
 License: GPLv2 
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 == Description ==
-Easily and automatically embed apps related to your content or subjects you like into your blog posts. Earn affiliate revenue from Apple. 
+Easily and automatically embed apps related to your content or subjects you like into your blog posts. Generate direct revenue from Quantaad sponsored apps. You could also earn affiliate revenue from Apple's Affiliate Program. 
 
 
-This smart plugin allows you to easily and automatically place the best apps related to your content or subjects you like into your blog posts. You can choose from variety of formats such as a list of apps in a slider or a simple link which only shows apps when a user clicks on the link. You can earn affiliate revenue by Apple.    
- 
+All app links are SEO optimized with “nofollow” tag. Our unique designs optimize the time users spend on your blog.
 
-Smartphone and tablets are becoming the main platform for reading blogs and you can observe this from your analytics. Be among the first bloggers that your blog not only contains great content but also is a hub for discovering great apps. Help your readers to find apps which they like and enrich their smartphone functionality. AppVitrine automatically detects the device your readers use and only shows apps related to the reader's device whether it is an iPhone, iPad, Android, Windows or BlackBerry phone.  
+
+Give a gift to your users and attarct them more to your blog by helping them find apps which they like and enrich their smartphone functionality. AppVitrine automatically detects the device your readers use and only shows apps related to the reader's device whether it is an iPhone, iPad, Android, Windows or BlackBerry phone.
+
 
 <strong>Features</strong>:
 
-* Very easy to use
+* Very easy to install
+* Generate incremental revenue via Quantaad sponsored apps
+* Generate affiliate revenue via Apple affiliate program
+* Increase your user engagement by introducing the best related apps in your blog
+* New revenue stearm without any channel conflict with your current revenue streams.
 * Automatically introduce the best apps related to your blog without any additional effort
-* Automatically update the search to find new related apps to your blog post
 * Automatically detect your reader's device and suggest apps based on in-use device 
 * Cover all major platforms including - Apple's App Store, Google's Android Market, Microsoft's Windows Store and BlackBerry World
 * Place once, benefit forever! - you do not need to configure the AppVitrine each time you edit your post
-* AppVitrine platform can be placed anywhere in your blog post
 * Choose a design which suits your blog
-* Benefit commission from Apple App Store affiliate program 
+* You can use Quantaad Analytics to track the number of views, clicks and the revenue you generate via AppVitrine
 
-<strong>Premium features:(Premium version will be released soon)</strong>
 
-* AppVitrine monetizes your blog
-* Manage the app list - you can customize the recommended app list by adding or removing apps to the suggested list
-* Natively promote an app on your blog
-* Enables you to place advertisements among the recommended apps 
-* AppVitrine can easily integrate with any advertising you use in your blog 
-* You can check the number of app views in AppVitrine plugin
-* You can check the number of clicks on the AppVitrine plugin
-* You can track the performance of AppVitrine slider
-  
 == Installation ==
 Installing AppVitrine Plugin from your WordPress admin panel:
 
@@ -57,12 +50,13 @@ Download and Install the AppVitrine Plugin from Wordpress plugin directory:
 3. Click "Upload" on the top page menu.
 4. Choose the "AppVitrine" plugin and click "Install Now".
 5. Click “AppVitrine” on the left hand panel.
+
 6. Make the changes on AppVitrine setting page if you needed and click “Apply”.
 
 
 == Frequently Asked Questions ==
 <strong> Do I need to create an account to use AppVitrine plugin? </strong><br>
-No.
+No. You don't need to have an account to use AppVitrine but if you want to earn revenue by AppVitrine you need to register.
 
 <strong>Does AppVitrine plugin work with any mobile platform?</strong><br>
 Yes. You do not need to do any extra work. AppVitrine plugin will automatically figure out what mobile platform your readers are using and will suggest the best apps for their devices.
@@ -76,38 +70,42 @@ You do not need to have a mobile app for your blog to be able to use the service
 <strong>What does AppVitrine show in my blog when readers visit my blog from the desktop?</strong><br>
 On the desktop version of your blog post, AppVitrine shows the related apps to your blog post with the option for device selection if you don’t check the “Show the app slider only on mobile devices “ in the Appvitrine setting page. We show all the major app stores on the desktop so your readers could choose their device of interest.  
 
-<strong>What are the different versions of AppVitrine plugin?</strong><br>
-There are two different versions 
-1. The current version which you can use to introduce the best related apps to your readers. You can also earn commission for app download if you have an Apple Affiliate ID.
-2. The premium version which you can generate advertising revenue from your blog.
 
-<strong>Can I see if anyone browses these suggested apps?</strong><br>
-Yes. If you register with us we will provide you with the statistics which shows the number of views.
 
 <strong>Can I see any report about the interaction of the visitors of my website with AppVitrine?</strong><br>
-This feature is not available in current version of the plugin but it will be added in the near future. 
 
-<strong>Do I get paid when my readers get interested to download an app?</strong><br>
-Yes. In the premium version you can generate revenue by AppVitrine.
+Yes. If you register on Quantaad Analytics we will provide you with the statistics which shows the number of views, the number of clicks and generated revenue.
+
+<strong>Can I generate revenue using AppVitrine plugin?</strong><br>
+Yes. You will get paid if you register with Quantaad and enter your Publication ID in your plugin.
+
+<strong>How can I get a Quantaad Publication ID?</strong><br>
+You should first register on Quantaad and then request for a Publication ID. You can find a full instruction on http://portal.quantaad.com/pages/helps/registration_and_creating_a_publication.html
 
 <strong>Can I earn commission if I do not have an Affiliate ID?</strong><br>
-No. In the current version, you need to have an Affiliate ID to earn commission from Apple Ap Store.
+No. You need to have an Affiliate ID to earn commission from Apple Ap Store.
 
 <strong>How can I get an Affiliate ID?</strong><br>
 You need to join Apple Affiliate Program. You can apply for Affiliate Program on http://www.apple.com/au/itunes/affiliates/
 
+
+
 <strong>Can I place the apps anywhere in my blog?</strong><br>
 Yes. By default, AppVitrine will add the apps to the end of your blog posts. However, you can use [appvitrine] shortcode to place the apps anywhere else. You can find more information on http://cdn.appvitrine.com/help/help_v2.html
 
+
 == Screenshots ==
 1. AppVitrine setting page
-2. Sample of AppVitrine on mobile version - Format:slider-f1
-
-3. Sample of AppVitrine on mobile version - Format:icon-f1 
+2. Sample of AppVitrine on iPhone
+3. Sample of AppVitrine on Android 
 4. Sample of AppVitrine on desktop version - Android apps tab selected
  
 
 == Changelog ==
+= 2.3 =
+* Add Quantaad sponsored apps. 
+* Integrate with Quantaad Analytics to provide detailed reports.
+
 = 2.2 =
 * The number of slider shown in a page got limited to 3.
 * Add extra parameters to track permlink, title, plugin version and div number.
@@ -137,6 +135,11 @@ Yes. By default, AppVitrine will add the apps to the end of your blog posts. How
 First version of AppVitrine plugin
  
 == Upgrade Notice ==
+= 2.3 =
+* In this version you can make revenue from app download.
+* You can view reports about the number of views, the number of clicks and generated revenue via AppVitrine. 
+* You can register on Quantaad portal to get paid.
+
 = 2.2 =
 * In this version the number of slider shown in one page has been limited to 3.
 * Some minor issues got fixed.
@@ -155,8 +158,8 @@ First version of AppVitrine plugin
 
 
 = 1.1 =
-* In this version you can add a clickable link or button, which shows the app list when users click on it, into your blog post instead of inserting the app slider. 
-* You can set your Apple Affiliate ID in AppVitrine shortcode to earn commission from Apple App Store. 
+*In this version you can add a clickable link or button, which shows the app list when users click on it, into your blog post instead of inserting the app slider. 
+*You can set your Apple Affiliate ID in AppVitrine shortcode to earn commission from Apple App Store. 
 
 = 1.0 =
 First version of AppVitrine plugin 
