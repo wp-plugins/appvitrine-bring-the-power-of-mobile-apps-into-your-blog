@@ -40,7 +40,9 @@ Installing AppVitrine Plugin from your WordPress admin panel:
 2. Type AppVitrine within the search box and click "Search Plugins".
 3. Choose the "AppVitrine" Plugin and click "Install Now".
 4. Click "Activate Plugin".
+
 5. Click “AppVitrine” on the left hand panel.
+
 6. Make the changes on AppVitrine setting page if you needed and click “Apply”.<br>
 
 Download and Install the AppVitrine Plugin from Wordpress plugin directory:
@@ -50,7 +52,6 @@ Download and Install the AppVitrine Plugin from Wordpress plugin directory:
 3. Click "Upload" on the top page menu.
 4. Choose the "AppVitrine" plugin and click "Install Now".
 5. Click “AppVitrine” on the left hand panel.
-
 6. Make the changes on AppVitrine setting page if you needed and click “Apply”.
 
 
@@ -117,11 +118,8 @@ Yes. By default, AppVitrine will add the apps to the end of your blog posts. How
 = 2.0 =
 
 * Enable automatically embedding apps in all articles.
-
 * Add AppVitrine setting to the left hand panel.
-
 * Add new format to show the list of related apps.
-
 * Enable registration to get updated about the new features.
 
 
