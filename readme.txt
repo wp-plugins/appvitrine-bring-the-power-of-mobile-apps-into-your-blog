@@ -1,4 +1,4 @@
-=== AppVitrine - Generate incremental revenue by bringing the power of mobile app discovery into your blog ===
+=== AppVitrine - Generate incremental revenue by bringing the power of mobile app into your blog ===
 Contributors: Lookitap
 Tags: app, sponsored app, mobile app, iphone, iphone app, ipad, ipad app, android, android app, windows, windows phone app, blackberry, blackberry app, related, content related, app recommendation, app discovery , related app, ad, advertising, revenue, ads, advertisement, embed, embed apps, shortcode, blog monetize, blog monetization, make money, apple affiliate
 Requires at least: 3.6
