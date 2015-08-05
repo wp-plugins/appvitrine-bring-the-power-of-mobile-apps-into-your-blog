@@ -72,15 +72,14 @@ On the desktop version of your blog post, AppVitrine shows the related apps to y
 
 
 
-<strong>Can I see any report about the interaction of the visitors of my website with AppVitrine?</strong><br>
-
+<strong>Can I see any report about the interaction of the visitors of my website with AppVitrine?</strong>
 Yes. If you register on Quantaad Analytics we will provide you with the statistics which shows the number of views, the number of clicks and generated revenue.
 
 <strong>Can I generate revenue using AppVitrine plugin?</strong><br>
 Yes. You will get paid if you register with Quantaad and enter your Publication ID in your plugin.
 
 <strong>How can I get a Quantaad Publication ID?</strong><br>
-You should first register on Quantaad and then request for a Publication ID. You can find a full instruction on http://portal.quantaad.com/pages/helps/registration_and_creating_a_publication.html
+You should first register on Quantaad and then request for a Publication ID. You can find a full instruction on <a href=”http://portal.quantaad.com/pages/helps/registration_and_creating_a_publication.html” title=”Title”>Quantaad Registration Help Page</a>
 
 <strong>Can I earn commission if I do not have an Affiliate ID?</strong><br>
 No. You need to have an Affiliate ID to earn commission from Apple Ap Store.
