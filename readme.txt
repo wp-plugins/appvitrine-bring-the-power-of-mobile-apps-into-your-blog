@@ -40,10 +40,7 @@ Installing AppVitrine Plugin from your WordPress admin panel:
 2. Type AppVitrine within the search box and click "Search Plugins".
 3. Choose the "AppVitrine" Plugin and click "Install Now".
 4. Click "Activate Plugin".
-
-5. Click “AppVitrine” on the left hand panel.
-
-6. Make the changes on AppVitrine setting page if you needed and click “Apply”.<br>
+5. Click “AppVitrine” on the left hand panel.6. Make the changes on AppVitrine setting page if you needed and click “Apply”.<br>
 
 Download and Install the AppVitrine Plugin from Wordpress plugin directory:
 
