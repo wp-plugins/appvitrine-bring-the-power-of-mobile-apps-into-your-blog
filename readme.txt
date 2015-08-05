@@ -79,9 +79,7 @@ Yes. If you register on Quantaad Analytics we will provide you with the statisti
 Yes. You will get paid if you register with Quantaad and enter your Publication ID in your plugin.
 
 <strong>How can I get a Quantaad Publication ID?</strong><br>
-You should first register on Quantaad and then request for a Publication ID. You can find a full instruction on <http://portal.quantaad.com/pages/helps/registration_and_creating_a_publication.html>
-<br>
-[WordPress](http://wordpress.org)
+You should first register on Quantaad and then request for a Publication ID. You can find a full instruction on [Quantaad Registration Help Page](http://portal.quantaad.com/pages/helps/registration_and_creating_a_publication.html).
 
 <strong>Can I earn commission if I do not have an Affiliate ID?</strong><br>
 No. You need to have an Affiliate ID to earn commission from Apple Ap Store.
@@ -92,7 +90,7 @@ You need to join Apple Affiliate Program. You can apply for Affiliate Program on
 
 
 <strong>Can I place the apps anywhere in my blog?</strong><br>
-Yes. By default, AppVitrine will add the apps to the end of your blog posts. However, you can use [appvitrine] shortcode to place the apps anywhere else. You can find more information on http://cdn.appvitrine.com/help/help_v2.html
+Yes. By default, AppVitrine will add the apps to the end of your blog posts. However, you can use [appvitrine] shortcode to place the apps anywhere else. You can find more information on [Advanced Help Page](http://cdn.appvitrine.com/help/help_v2.html).
 
 
 == Screenshots ==
