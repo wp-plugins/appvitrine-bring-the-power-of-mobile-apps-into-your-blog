@@ -1,4 +1,4 @@
-=== AppVitrine - Generate incremental revenue by bringing the power of mobile app discovery into your blog ===
+=== AppVitrine - Generate incremental revenue by bringing the power of mobile apps into your blog ===
 Contributors: Lookitap
 Tags: app, sponsored app, mobile app, iphone, iphone app, ipad, ipad app, android, android app, windows, windows phone app, blackberry, blackberry app, related, content related, app recommendation, app discovery , related app, ad, advertising, revenue, ads, advertisement, embed, embed apps, shortcode, blog monetize, blog monetization, make money, apple affiliate
 Requires at least: 3.6
@@ -50,7 +50,6 @@ Download and Install the AppVitrine Plugin from Wordpress plugin directory:
 3. Click "Upload" on the top page menu.
 4. Choose the "AppVitrine" plugin and click "Install Now".
 5. Click “AppVitrine” on the left hand panel.
-
 6. Make the changes on AppVitrine setting page if you needed and click “Apply”.
 
 
@@ -79,7 +78,7 @@ Yes. If you register on Quantaad Analytics we will provide you with the statisti
 Yes. You will get paid if you register with Quantaad and enter your Publication ID in your plugin.
 
 <strong>How can I get a Quantaad Publication ID?</strong><br>
-You should first register on Quantaad and then request for a Publication ID. You can find a full instruction on <a href=”http://portal.quantaad.com/pages/helps/registration_and_creating_a_publication.html” title=”Title”>Quantaad Registration Help Page</a>
+You should first register on Quantaad and then request for a Publication ID. You can find a full instruction on [Quantaad Registration Help Page](http://portal.quantaad.com/pages/helps/registration_and_creating_a_publication.html).
 
 <strong>Can I earn commission if I do not have an Affiliate ID?</strong><br>
 No. You need to have an Affiliate ID to earn commission from Apple Ap Store.
@@ -90,7 +89,7 @@ You need to join Apple Affiliate Program. You can apply for Affiliate Program on
 
 
 <strong>Can I place the apps anywhere in my blog?</strong><br>
-Yes. By default, AppVitrine will add the apps to the end of your blog posts. However, you can use [appvitrine] shortcode to place the apps anywhere else. You can find more information on http://cdn.appvitrine.com/help/help_v2.html
+Yes. By default, AppVitrine will add the apps to the end of your blog posts. However, you can use [appvitrine] shortcode to place the apps anywhere else. You can find more information on [Advanced Help Page](http://cdn.appvitrine.com/help/help_v2.html).
 
 
 == Screenshots ==
@@ -117,11 +116,8 @@ Yes. By default, AppVitrine will add the apps to the end of your blog posts. How
 = 2.0 =
 
 * Enable automatically embedding apps in all articles.
-
 * Add AppVitrine setting to the left hand panel.
-
 * Add new format to show the list of related apps.
-
 * Enable registration to get updated about the new features.
 
 
