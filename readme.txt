@@ -80,6 +80,8 @@ Yes. You will get paid if you register with Quantaad and enter your Publication 
 
 <strong>How can I get a Quantaad Publication ID?</strong><br>
 You should first register on Quantaad and then request for a Publication ID. You can find a full instruction on <http://portal.quantaad.com/pages/helps/registration_and_creating_a_publication.html>
+<br>
+[WordPress](http://wordpress.org)
 
 <strong>Can I earn commission if I do not have an Affiliate ID?</strong><br>
 No. You need to have an Affiliate ID to earn commission from Apple Ap Store.
