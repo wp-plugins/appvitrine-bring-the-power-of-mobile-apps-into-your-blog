@@ -1,5 +1,4 @@
-<?php
-/*
+<?php /*
  Plugin Name:AppVitrine
  Plugin URI: http://lookitap.com/appvitrine.php
  Description:Generate incremental revenue and increase your user engagement by placing related apps to your blog.
@@ -7,7 +6,7 @@
  Author: Lookitap
  Author URI: http://lookitap.com
  License: GPLv2
- Usage: [appvitrine size="normal" keywords="keyword1,keyword2,keyword3"]
+ Usage:[appvitrine size="normal" keywords="keyword1,keyword2,keyword3"]
  */
 
 /********************************************************************************/
