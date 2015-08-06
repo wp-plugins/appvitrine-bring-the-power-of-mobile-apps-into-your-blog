@@ -8,7 +8,6 @@
  License: GPLv2
  Usage: [appvitrine size="normal" keywords="keyword1,keyword2,keyword3"]
  */
-
 /********************************************************************************/
 // set default parameters
 if (get_option("appvitrine_plugin_initiated") != "true") {
