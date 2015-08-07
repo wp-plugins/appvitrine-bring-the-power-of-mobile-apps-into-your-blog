@@ -1,4 +1,4 @@
-===  ===
+=== ===
 Contributors: Quantaad
 Tags: app, sponsored app, mobile app, iphone, iphone app, ipad, ipad app, android, android app, windows, windows phone app, blackberry, blackberry app, related, content related, app recommendation, app discovery , related app, ad, advertising, revenue, ads, advertisement, embed, embed apps, shortcode, blog monetize, blog monetization, make money, apple affiliate, app download, app install, report, click, tracking, plugin
 Requires at least: 3.6
@@ -9,7 +9,7 @@ License: GPLv2
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 == Description ==
-Easily and automatically embed apps related to your content or subjects you like into your blog posts. Generate direct revenue from Quantaad sponsored apps. You could also earn affiliate revenue from Apple's Affiliate Program. 
+Automatically embed apps related to your content or subjects you like into your blog posts. Generate direct revenue from Quantaad sponsored apps. You could also earn affiliate revenue from Apple's Affiliate Program. 
 
 
 All app links are SEO optimized with “nofollow” tag. Our unique designs optimize the time users spend on your blog.
