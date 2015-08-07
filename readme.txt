@@ -3,8 +3,9 @@ Contributors: Quantaad
 Tags: app, sponsored app, mobile app, iphone, iphone app, ipad, ipad app, android, android app, windows, windows phone app, blackberry, blackberry app, related, content related, app recommendation, app discovery , related app, ad, advertising, revenue, ads, advertisement, embed, embed apps, shortcode, blog monetize, blog monetization, make money, apple affiliate, app download, app install, report, click, tracking, plugin
 Requires at least: 3.6
 
+Compatible up to: 4.2.4
 Tested up to: 4.2.4
-Stable tag: 2.3.1
+Stable tag: 2.3
 License: GPLv2 
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -100,9 +101,6 @@ Yes. By default, AppVitrine will add the apps to the end of your blog posts. How
  
 
 == Changelog ==
-= 2.3.1 =
-* Change Help Link
-
 = 2.3 =
 * Add Quantaad sponsored apps. 
 * Integrate with Quantaad Analytics to provide detailed reports.
@@ -133,9 +131,6 @@ Yes. By default, AppVitrine will add the apps to the end of your blog posts. How
 First version of AppVitrine plugin
  
 == Upgrade Notice ==
-= 2.3.1 =
-* Change Help Link
-
 = 2.3 =
 * In this version you can make revenue from app download.
 * You can view reports about the number of views, the number of clicks and generated revenue via AppVitrine. 
