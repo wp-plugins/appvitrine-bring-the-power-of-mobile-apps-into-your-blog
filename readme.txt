@@ -3,8 +3,6 @@ Contributors: Quantaad
 Tags: app, sponsored app, mobile app, iphone, iphone app, ipad, ipad app, android, android app, windows, windows phone app, blackberry, blackberry app, related, content related, app recommendation, app discovery , related app, ad, advertising, revenue, ads, advertisement, embed, embed apps, shortcode, blog monetize, blog monetization, make money, apple affiliate, app download, app installreport, click, tracking, plugin
 Requires at least: 3.6
 
-Requires at least: 3.6
-
 Compatible up to: 4.2.4
 Tested up to: 4.2.4
 Stable tag: 2.3
