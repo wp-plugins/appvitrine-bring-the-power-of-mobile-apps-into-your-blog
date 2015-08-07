@@ -62,7 +62,7 @@ if ($_POST['appvitrineAction']=='applySettings'){
 							<label for="appvitrine_publication_id">
 								Quantaad Publication ID
 								<span class="description">
-									(optional) <br>  Don't you have a Quantaad publication ID?<br> <a href="http://quantaad.com/helps/registration_and_creating_a_publication.html" target="_blank">Follow the instructions to get one here</a> 
+									(optional) <br>  Don't you have a Quantaad publication ID?<br> <a href="http://portal.quantaad.com/membership/security/#/membership/security/signup/publisher" target="_blank">Apply for one here</a> 
 								</span>
 							</label>
 						</th>
