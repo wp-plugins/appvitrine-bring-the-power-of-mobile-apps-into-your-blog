@@ -154,13 +154,11 @@ First version of AppVitrine plugin
 
 
 = 1.1 =
-*In this version you can add a clickable link or button, which shows the app list when users click on it, into your blog post instead of inserting the app slider. 
-*You can set your Apple Affiliate ID in AppVitrine shortcode to earn commission from Apple App Store. 
+* In this version you can add a clickable link or button, which shows the app list when users click on it, into your blog post instead of inserting the app slider. 
+* You can set your Apple Affiliate ID in AppVitrine shortcode to earn commission from Apple App Store. 
 
 = 1.0 =
-First version of AppVitrine plugin 
-
-
+* First version of AppVitrine plugin 
 
 
 
