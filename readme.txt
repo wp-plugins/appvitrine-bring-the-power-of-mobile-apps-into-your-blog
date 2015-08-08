@@ -9,13 +9,25 @@ License: GPLv2
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 == Description ==
-Easily embed apps related to your content or subjects you like into your blog posts. Generate direct revenue from Quantaad sponsored apps. You could also earn affiliate revenue from Apple's Affiliate Program. 
+Use AppVitrine plugin to add the app install ads as an extra source of revenue into your blog.
+
+Appvitrine enables you to bring the most successful ad units on mobile platforms, namely app install ads, into your blog. These sponsored apps are presented in beautiful designs and combined with related apps to your blog posts to make the ad units more engaging. You can earn on average $1.5-$2 for the download of any sponsored app from your blog. The integration of AppVitrine plugin is very easy and could be done in three steps: 
+
+1. Download and install AppVitrine plugin.
+2. Activate the plugin.
+3. [Sign up](http://portal.quantaad.com/membership/security/#/membership/security/signup/publisher) with Quantaad to be able to use the publication ID in the setting page and activate the sponsored apps in your blog.
 
 
-All app links are SEO optimized with “nofollow” tag. Our unique designs optimize the time users spend on your blog.
+Without a publisher ID, we still show non sponsored apps related to your content. However, we strongly recommend you to get a Quantaad publisher ID and enjoy from its revenue stream. 
 
+To get a Quantaad Publisher ID, follow the simple steps below: 
 
-Give a gift to your users and attarct them more to your blog by helping them find apps which they like and enrich their smartphone functionality. AppVitrine automatically detects the device your readers use and only shows apps related to the reader's device whether it is an iPhone, iPad, Android, Windows or BlackBerry phone.
+1. Fill out our simple [Sign up](http://portal.quantaad.com/membership/security/#/membership/security/signup/publisher) form.
+2. Validate your email address.
+3. After approval we send you a Publication ID by email
+4. Use the Publication ID in the setting page of the AppVitrine to activate sponsored apps.
+
+Quantaad is a mobile ad company located in Silicon Valley, Sunnyvale, CA. Quantaad brings its technology and innovative designs to create new revenue streams for publishers. Our patent pending ads have 10x higher interaction rate than creative desgins. 
 
 
 <strong>Features</strong>:
@@ -32,6 +44,7 @@ Give a gift to your users and attarct them more to your blog by helping them fin
 * Choose a design which suits your blog
 * You can use Quantaad Analytics to track the number of views, clicks and the revenue you generate via AppVitrine
 
+Stay tuned for our next release in which you will be able to change the number of sponsored apps and non sponsored apps.
 
 == Installation ==
 Installing AppVitrine Plugin from your WordPress admin panel:
@@ -100,6 +113,9 @@ Yes. By default, AppVitrine will add the apps to the end of your blog posts. How
  
 
 == Changelog ==
+= 2.3.1 = 
+* Change help link
+
 = 2.3 =
 * Add Quantaad sponsored apps. 
 * Integrate with Quantaad Analytics to provide detailed reports.
@@ -130,6 +146,9 @@ Yes. By default, AppVitrine will add the apps to the end of your blog posts. How
 First version of AppVitrine plugin
  
 == Upgrade Notice ==
+= 2.3.1 = 
+* Change help link
+
 = 2.3 =
 * In this version you can make revenue from app download.
 * You can view reports about the number of views, the number of clicks and generated revenue via AppVitrine. 

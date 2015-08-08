@@ -1,10 +1,10 @@
 <?php /*
  Plugin Name:AppVitrine
  Plugin URI: http://lookitap.com/appvitrine.php
- Description: Use the Quantaad plugin to add the app install ads as an extra source of revenue into your blog.
- Version: 2.3
- Author: Lookitap
- Author URI: http://lookitap.com
+ Description: Use AppVitrine plugin to add the app install ads as an extra source of revenue into your blog.
+ Version: 2.3.1
+ Author: Quantaad
+ Author URI: http://quantaad.com
  License: GPLv2
  Usage: [appvitrine size="normal" keywords="keyword1,keyword2,keyword3"]
  */
@@ -206,7 +206,7 @@ function appvitrine_shortcode($atts, $content = null, $format = "show_ad") {
 	$src .= "&q=" . urlencode(wp_get_shortlink());
 	$src .= "&perma=" . urlencode(get_permalink());
 	$src .= "&title=" . urlencode(get_the_title());	
-	$src .= '&pv=' . "AV2.3";  //plugin version. this must be changed when version is changed.
+	$src .= '&pv=' . "AV2.3.1";  //plugin version. this must be changed when version is changed.
 	$src .= "&h=" . md5(get_the_content());
 
 	// Define a static counter to support multiple slider in one post, a postfix counter will be added to each element id.
