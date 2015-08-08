@@ -9,8 +9,6 @@ License: GPLv2
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 == Description ==
-Use AppVitrine plugin to add the app install ads as an extra source of revenue into your blog.
-
 Appvitrine enables you to bring the most successful ad units on mobile platforms, namely app install ads, into your blog. These sponsored apps are presented in beautiful designs and combined with related apps to your blog posts to make the ad units more engaging. You can earn on average $1.5-$2 for the download of any sponsored app from your blog. The integration of AppVitrine plugin is very easy and could be done in three steps: 
 
 1. Download and install AppVitrine plugin.
