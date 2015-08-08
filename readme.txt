@@ -9,7 +9,7 @@ License: GPLv2
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 == Description ==
-Automatically embed apps related to your content or subjects you like into your blog posts. Generate direct revenue from Quantaad sponsored apps. You could also earn affiliate revenue from Apple's Affiliate Program. 
+Easily embed apps related to your content or subjects you like into your blog posts. Generate direct revenue from Quantaad sponsored apps. You could also earn affiliate revenue from Apple's Affiliate Program. 
 
 
 All app links are SEO optimized with “nofollow” tag. Our unique designs optimize the time users spend on your blog.
