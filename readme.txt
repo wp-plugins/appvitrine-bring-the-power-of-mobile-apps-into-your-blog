@@ -25,9 +25,6 @@ To get a Quantaad Publisher ID, follow the simple steps below:
 3. After approval we send you a Publication ID by email
 4. Use the Publication ID in the setting page of the AppVitrine to activate sponsored apps.
 
-Quantaad is a mobile ad company located in Silicon Valley, Sunnyvale, CA. Quantaad brings its technology and innovative designs to create new revenue streams for publishers. Our patent pending ads have 10x higher interaction rate than creative desgins. 
-
-
 <strong>Features</strong>:
 
 * Very easy to install
